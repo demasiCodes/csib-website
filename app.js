@@ -3,8 +3,8 @@ window.addEventListener('DOMContentLoaded', function () {
     var bodyElement = document.getElementById('body');
 
     // Update the title
-    titleElement.textContent = 'New App Title';
+    titleElement.textContent = 'CompSci in Bethlehem';
 
     // Update the body
-    bodyElement.textContent = 'This is the new app body.';
+    bodyElement.textContent = 'Welcome to our official website!';
 });
